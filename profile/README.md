@@ -12,7 +12,7 @@ The repositories related to the 5G-MAG Reference Tools are using the prefix **rt
 
 The repository related to this activity is https://github.com/5G-MAG/Standards
 
-### Contact 📧
+### 📧 Contact
 For general information about 5G-MAG, [send us an e-mail](mailto:info@5g-mag.com). For 5G-MAG Reference Tools, follow the instructions [here](https://www.5g-mag.com/community).
 
 Enjoy! 💪
