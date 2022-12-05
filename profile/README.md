@@ -14,7 +14,9 @@ The repository related to this activity is https://github.com/5G-MAG/Standards
 
 ### 📢 Repos for REQUESTS FOR FEEDBACK on 5G-MAG Publications 
 5G-MAG maintains a GitHub repository open to the community to provide feedback on publications related to 5G-MAG's areas of work.
-More information can be found at https://www.5g-mag.com/publications and the related 5G-MAG Workgroups.
+More information can be found at (TBC) and the related 5G-MAG Workgroups.
+
+The repository related to this activity is https://github.com/5G-MAG/Requests-for-Feedback
 
 ### 📧 Contact
 For general information about 5G-MAG, [send us an e-mail](mailto:info@5g-mag.com). For 5G-MAG Reference Tools, follow the instructions [here](https://www.5g-mag.com/community).
