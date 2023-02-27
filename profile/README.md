@@ -1,4 +1,4 @@
-# Hi, this is 5G-MAG's GitHub 👋
+# Hi, welcome to 5G-MAG's GitHub 👋
 
 The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) provides a framework for stakeholders in the media and ICT industries to collaborate building solutions for the connected media world. We aim to be open, agile, pragmatic and instrumental to the industry and therefore some of our activities are publicly handled within this GitHub.
 
