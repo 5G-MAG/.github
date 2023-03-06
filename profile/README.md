@@ -5,10 +5,11 @@ A core objective is to drive the market-oriented implementation of technologies 
 We aim to be open, agile, pragmatic and instrumental to the industry. Therefore some of our activities are publicly handled within this GitHub.
 
 ## 💻 Repos for 5G-MAG REFERENCE TOOLS
-The 5G-MAG Reference Tools Development Programme is developing the ecosystem of common open software reference tools to support the implementation and interoperability of 5G Media technologies. Complete information can be found at http://developer.5g-mag.com/ and the 5G-MAG WG Development and Implementation.
+The 5G-MAG Reference Tools Development Programme is developing the ecosystem of common open software reference tools to support the implementation and interoperability of 5G Media technologies.
 
-The repositories related to the 5G-MAG Reference Tools are using the prefix **rt-** (context is provided here: https://www.5g-mag.com/repositories).
-Please refer to the README and the documentation and Wikis for the project you wish to use: https://github.com/5G-MAG/Documentation-and-Architecture/wiki
+Complete information about the development programme can be found at http://developer.5g-mag.com/ and the 5G-MAG WG Development and Implementation.
+
+The repositories related to the 5G-MAG Reference Tools are using the prefix **rt-**. Please refer to the README and the documentation and Wikis for the project you wish to use: https://github.com/5G-MAG/Documentation-and-Architecture/wiki
 
 ### 5G-MAG Reference Tools - How to participate
 
