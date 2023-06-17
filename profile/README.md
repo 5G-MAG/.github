@@ -4,7 +4,9 @@ The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) 5G-MAG (Media Actio
 
 ## 💻 Repos for 5G-MAG REFERENCE TOOLS
 ### GETTING STARTED: https://github.com/5G-MAG/Getting-Started/wiki
-The 5G-MAG Reference Tools Development Programme is developing the ecosystem of common open software reference tools to support the implementation and interoperability of 5G Media technologies. Complete information about the development programme can be found at http://developer.5g-mag.com/ and the 5G-MAG WG Development and Implementation.
+The 5G-MAG Reference Tools Development Programme is developing the ecosystem of common open software reference tools to support the implementation and interoperability of 5G Media technologies.
+
+Complete information about the development programme can be found at http://developer.5g-mag.com/ and the 5G-MAG WG Development and Implementation.
 
 ## 🔧 Repos for STANDARDS and specifications relevant to 5G-MAG 
 ### STANDARDS repo: https://github.com/5G-MAG/Standards
