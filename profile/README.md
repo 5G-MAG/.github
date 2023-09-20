@@ -19,7 +19,7 @@ This [wiki](https://github.com/5G-MAG/Standards/wiki) contains specifications in
 ## 📢 Repos for REQUESTS FOR FEEDBACK on 5G-MAG Publications 
 ### REQUESTS FOR FEEDBACK repo: https://github.com/5G-MAG/Requests-for-Feedback
 5G-MAG maintains a GitHub repository open to the community to provide feedback on publications related to 5G-MAG's areas of work.
-More information can be found at https://publications.5g-mag.com and the related 5G-MAG Workgroups.
+More information can be found at https://pub.5g-mag.com and the related 5G-MAG Workgroups.
 
 ## 📧 Contact
 For general information about 5G-MAG, [send us an e-mail](mailto:info@5g-mag.com). For 5G-MAG Reference Tools, follow the instructions [here](https://www.5g-mag.com/community).
