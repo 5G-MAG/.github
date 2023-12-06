@@ -1,6 +1,13 @@
 # Hi, welcome to 5G-MAG's GitHub 👋
 
-The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) 5G-MAG (Media Action Group) fosters collaboration between the media and information and communication technology (ICT) industries. A core objective of 5G-MAG is to drive the market-oriented implementation of technologies for the connected media world, leveraging global Internet and 5G access technologies. The work spans from conception of a use case, service or application, up to implementation of proof-of-concepts and products. We aim to be open, agile, pragmatic and instrumental to the industry. Therefore some of our activities are publicly handled within this GitHub.
+The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) is an international association open to the industry to cooperate in technology development and accelerate its adoption through pragmatic, non-bureaucratic and action-based work.
+- We join efforts to leverage global Internet, 5G-based access technologies and APIs that fuel the media applications of the future.
+- We do not publish our own standards. We prefer to work closely with global standard-setting organizations relevant to the areas of work our members propose.
+- We seek consensus among members and the wider industry with pre-standards work and studies.
+- We help coordinate inputs on service, application and technical requirements among members.
+- Our members elaborate specification profiles, implementation guidelines and educational material with the industry and users in mind.
+- We have established the open-source 5G-MAG Reference Tools Development Programme to bring technologies closer to developers, help validate specifications, build PoCs and demonstrators and drive technology adoption.
+- We aim to be open, agile, pragmatic and instrumental to the industry. Therefore some of our activities are publicly handled within this GitHub.
 
 ## 💻 Repos for 5G-MAG REFERENCE TOOLS
 ### ENTRY POINT: https://github.com/5G-MAG/Getting-Started/wiki
