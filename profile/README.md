@@ -4,7 +4,7 @@ The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) 5G-MAG (Media Actio
 
 ## 💻 Repos for 5G-MAG REFERENCE TOOLS
 ### ENTRY POINT: https://github.com/5G-MAG/Getting-Started/wiki
-Complete information about the development programme can be found at http://developer.5g-mag.com/.
+- Complete information about the development programme can be found at http://developer.5g-mag.com/.
 
 ## 🔧 Repos for STANDARDS and SPECIFICATIONS
 ### ENTRY POINT: https://github.com/5G-MAG/Standards
