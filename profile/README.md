@@ -1,6 +1,6 @@
 # Hi, welcome to 5G-MAG's GitHub 👋
 
-The [5G Media Action Group (5G-MAG)](https://www.5g-mag.com) is an international association open to the industry to cooperate in technology development and accelerate its adoption through pragmatic, non-bureaucratic and action-based work.
+The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association open to the industry to cooperate in technology development and accelerate its adoption through pragmatic, non-bureaucratic and action-based work.
 - We join efforts to leverage global Internet, 5G-based access technologies and APIs that fuel the media applications of the future.
 - We do not publish our own standards. We prefer to work closely with global standard-setting organizations relevant to the areas of work our members propose.
 - We seek consensus among members and the wider industry with pre-standards work and studies.
