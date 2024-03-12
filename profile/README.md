@@ -10,7 +10,7 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international asso
 - We aim to be open, agile, pragmatic and instrumental to the industry. Therefore some of our activities are publicly handled within this GitHub.
 
 ## 💻 Repos for 5G-MAG REFERENCE TOOLS
-### ENTRY POINT: https://github.com/5G-MAG/Getting-Started/wiki
+### ENTRY POINT: https://5g-mag.github.io/Getting-Started/
 - Complete information about the development programme can be found at http://developer.5g-mag.com/.
 
 ## 🔧 Repos for STANDARDS and SPECIFICATIONS
