@@ -16,7 +16,7 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international asso
 ## 🔧 Repos for STANDARDS and SPECIFICATIONS
 ### ENTRY POINT: https://github.com/5G-MAG/Standards
 #### Relevant Specifications and Profiling
-- This [wiki](https://github.com/5G-MAG/Standards/wiki) contains specifications in the scope of 5G-MAG's Areas of Work.
+- This [Github page](https://5g-mag.github.io/Getting-Started/) contains specifications in the scope of 5G-MAG's Areas of Work.
 - More information can be found at https://www.5g-mag.com/standards.
 
 #### Feedback on Technical Specifications
