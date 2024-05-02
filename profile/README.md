@@ -14,13 +14,13 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international asso
 - Complete information about the development programme can be found at http://developer.5g-mag.com/.
 
 ## 🔧 Repos for STANDARDS and SPECIFICATIONS
-### ENTRY POINT: https://github.com/5G-MAG/Standards
+### ENTRY POINT: https://5g-mag.github.io/Standards/
 #### Relevant Specifications and Profiling
-- This [Github page](https://5g-mag.github.io/Getting-Started/) contains specifications in the scope of 5G-MAG's Areas of Work.
+- This [Github page](https://5g-mag.github.io/Standards/) contains specifications in the scope of 5G-MAG's Areas of Work.
 - More information can be found at https://www.5g-mag.com/standards.
 
 #### Feedback on Technical Specifications
-- 5G-MAG maintains this [GitHub repository](https://github.com/5G-MAG/Standards#feedback-on-technical-specifications) open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
+- 5G-MAG also maintains under this GitHub repository several projects open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. These related to [Specifications maintained by external SDOs](https://5g-mag.github.io/Standards/#feedback-on-technical-specifications-maintained-by-external-sdos) as well as [Specifications maintained by 5G-MAG](https://5g-mag.github.io/Standards/#feedback-on-technical-specifications-maintained-by-5g-mag).
 - More information can be found at https://www.5g-mag.com/feedback.
 
 #### 3GPP SA4 XCHANGE
