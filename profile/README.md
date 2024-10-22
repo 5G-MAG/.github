@@ -28,7 +28,7 @@ The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international asso
 - Agenda and Notes are [here](https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes).
 
 ## 📢 Repos for REQUESTS FOR FEEDBACK on 5G-MAG Publications 
-### ENTRY POINT: [https://github.com/5G-MAG/Requests-for-Feedback](https://github.com/5G-MAG/Requests-for-Feedback)
+### ENTRY POINT: [https://5g-mag.github.io/Requests-for-Feedback/](https://5g-mag.github.io/Requests-for-Feedback/)
 - 5G-MAG maintains this [GitHub repository](https://github.com/5G-MAG/Requests-for-Feedback) open to the community to provide feedback on 5G-MAG Publications.
 - More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
