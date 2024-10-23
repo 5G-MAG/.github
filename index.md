@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 0
+has_children: false
+---
+
 # Hi, welcome to 5G-MAG's GitHub 👋
 
 The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association open to the industry to cooperate in technology development and accelerate its adoption through pragmatic, non-bureaucratic and action-based work.
