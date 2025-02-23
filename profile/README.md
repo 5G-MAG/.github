@@ -1,4 +1,4 @@
-<img src="./images/Button_Welcome.png">
+<img src="../assets/images/Banner_Welcome.png">
 
 The [5G-MAG MEDIA ACTION GROUP](https://www.5g-mag.com) is an international association driving standards for connected media experiences and developing software to catalyse market adoption.
 
@@ -6,7 +6,7 @@ If you know already what you are looking for, go to the [Repositories](https://g
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Getting-Started/"><img src="./images/Button_RT.png"><a/>
+<a href="https://5g-mag.github.io/Getting-Started/"><img src="../assets/images/Button_RT.png"><a/>
 
 All about our reference implementations and on-going projects.
 ### ENTRY POINT: [https://5g-mag.github.io/Getting-Started/](https://5g-mag.github.io/Getting-Started/)
@@ -14,7 +14,7 @@ More background information at [http://developer.5g-mag.com/](http://developer.5
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Tech/"><img src="./images/Button_Tech.png"><a/>
+<a href="https://5g-mag.github.io/Tech/"><img src="../assets/images/Button_Tech.png"><a/>
 
 Outcomes of the Work Items.
 ### ENTRY POINT: [https://5g-mag.github.io/Tech/](https://5g-mag.github.io/Tech/)
@@ -22,7 +22,7 @@ More background information at [http://www.5g-mag.com/technology](http://www.5g-
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Standards/"><img src="./images/Button_Std.png"><a/>
+<a href="https://5g-mag.github.io/Standards/"><img src="../assets/images/Button_Std.png"><a/>
 
 All about specifications, navigating though them, issues and feedback to SDOs.
 ### ENTRY POINT: [https://5g-mag.github.io/Standards/](https://5g-mag.github.io/Standards/)
@@ -30,7 +30,7 @@ More background information at [http://www.5g-mag.com/standards](http://www.5g-m
 
 <br><br>
 
-<a href="https://5g-mag.github.io/Requests-for-Feedback/"><img src="./images/Button_RfF.png"><a/>
+<a href="https://5g-mag.github.io/Requests-for-Feedback/"><img src="../assets/images/Button_RfF.png"><a/>
 
 Comment and provide feeback to our publications and outcomes.
 ### ENTRY POINT: [https://5g-mag.github.io/Requests-for-Feedback/](https://5g-mag.github.io/Requests-for-Feedback/)
